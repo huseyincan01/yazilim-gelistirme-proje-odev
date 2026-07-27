@@ -7,9 +7,6 @@ Bu proje, C++ ve Qt framework kullanılarak geliştirilmiş bir araç kiralama o
 - **Ad Soyad:** Hüseyin Taşkan
 - **Öğrenci No:** 444029
 
-- **Ad Soyad:** AmirHossein Doustdar
-- **Öğrenci No:** 442471
-
 ## Proje Özellikleri
 
 - **Araç Yönetimi:** Sisteme yeni araç ekleme, silme ve detaylı araç listesini (plaka, marka, model, yıl, yakıt tipi vb.) görüntüleme.
